@@ -1,0 +1,17 @@
+name: ActivityCoins
+version: 1.3.0-SNAPSHOT
+escription: ActivityCoins v1.3.0-SNAPSHOT
+authors: [ henningrck ]
+website: https://github.com/cubelegends/activitycoins
+main: de.cubelegends.activitycoins.ActivityCoins
+depend: [ Vault ]
+
+commands:
+  activity:
+    description: View activity
+
+permissions:
+  activitycoins.own:
+    description: View own activity
+  activitycoins.all:
+    description: View all activities
