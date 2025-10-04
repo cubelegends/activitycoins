@@ -1,0 +1,16 @@
+name: ActivityCoins
+version: 0.1.0-SNAPSHOT
+description: ActivityCoins v0.1.0-SNAPSHOT
+author: henningstorck
+main: com.henningstorck.activitycoins.ActivityCoins
+depend: [ Vault ]
+
+commands:
+  activity:
+    description: View activity
+
+permissions:
+  activitycoins.own:
+    description: View own activity
+  activitycoins.all:
+    description: View all activities
