@@ -1,6 +1,6 @@
 name: ActivityCoins
-version: 0.1.0
-description: ActivityCoins v0.1.0
+version: 0.1.1-SNAPSHOT
+description: ActivityCoins v0.1.1-SNAPSHOT
 author: henningstorck
 main: com.henningstorck.activitycoins.ActivityCoins
 depend: [ Vault ]
